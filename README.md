@@ -83,8 +83,8 @@ To run the project, execute the following command:
 👤 **Shedrak-Sunday**
 
 - GitHub: [@Shedrak-Sunday](https://github.com/Shedrak-Sunday)
-- Twitter: [@twitterhandle](https://twitter.com/DeleSundayS)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/Shedrak-Sunday)
+- Twitter: [@DeleSundayS](https://twitter.com/DeleSundayS)
+- LinkedIn: [Shedrack-Sunday](https://linkedin.com/in/Shedrak-Sunday)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
