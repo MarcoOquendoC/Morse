@@ -11,7 +11,7 @@
 # 📖 Morse Decoder <a name="morse-decoder"></a>
 
 > Morse Decoder is a Ruby app that will decode a morse code string given by the user. (Pair Programming)
-
+> used a module inside a class. For we created a class MyList and a module MyEnumerable.our module MyEnumerable will implement a subset of the functionality of Enumerable.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
