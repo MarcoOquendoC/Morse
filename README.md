@@ -74,13 +74,13 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Marco Oquendo**
+<img src="https://ca.slack-edge.com/T47CT8XPG-U03GYGT3LBA-0bd15eb5c4a7-512" alt="Marco" width="40" height="40" /> **Marco Oquendo**
 
 - GitHub: [@MarcoOquendoC](https://github.com/MarcoOquendoC). 
 - Twitter: [@marcooquendoc](https://twitter.com/marcooquendoc). 
 - LinkedIn: [Marco Vinicio Oquendo](https://www.linkedin.com/in/MarcoOquendoC/). 
 
-👤 **Shedrak-Sunday**
+<img src="https://ca.slack-edge.com/T47CT8XPG-U03K3P5GF1S-f994ce11363d-512" alt="Shedrak" width="40" height="40" /> **Shedrak-Sunday**
 
 - GitHub: [@Shedrak-Sunday](https://github.com/Shedrak-Sunday)
 - Twitter: [@DeleSundayS](https://twitter.com/DeleSundayS)
